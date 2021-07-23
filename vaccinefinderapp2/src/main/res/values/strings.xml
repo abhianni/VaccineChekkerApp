@@ -1,0 +1,14 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+<string name="app_name">VaccineFinder</string>
+    <string name="PinCode">PinCode/DistrictId</string>
+    <string name="Date">Date</string>
+    <string name="button_Search">Search</string>
+    <string name="notification_activity">Vaccine Center List</string>
+    <string name="spinnerText">Select Age</string>
+    <string name="radioButton">PinCode Search</string>
+    <string name="radioButton2">District ID</string>
+    <string-array name="spinner1">
+        <item>18</item>
+        <item>45</item>
+    </string-array>
+</resources>
